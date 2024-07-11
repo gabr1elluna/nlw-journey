@@ -1,6 +1,7 @@
 # NLW Journey
 
-Esse repositório é destinado aos códigos do projeto proposto durante a Next Level Week (NLW) da RocketSeat e, por escolha pessoal, dediquei meu tempo para seguir a trilha de Java disponibilizada durante o evento.
+Esse repositório é destinado aos códigos do projeto proposto durante a Next Level Week (NLW) da RocketSeat e, por escolha pessoal, dediquei meu tempo para seguir a trilha de Java disponibilizada durante o evento. O foco do projeto em Java foi no back-end de um planejador de viagens.
+<br>
 <br>
 Estarei resumindo neste README as principais tecnologias utilizadas no desenvolvimento do projeto de cada trilha. O evento contou com 10 opções de trilhas, sendo eles Java, Python, C#, NodeJS, ReactJS, React Native, DevOps, JavaScript com HTML e CSS, GO e IA.
 <br>
